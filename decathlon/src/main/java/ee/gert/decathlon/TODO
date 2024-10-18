@@ -1,0 +1,24 @@
+
+DB:
+
+sportlane - nimi, riik, vanus.
+
+tulemus - score, sportlase_id,
+
+
+get_all_athlete_score_points
+
+
+-Järgmiseks tee 10 API päringu sisestuse võimalust Controlleris, mis võtavad vastu iga kergejõustiku
+ala tulemuse
+
+
+
+FE for:
+
+create
+add
+look
+get_current_score (ma eeldan et see on siis see eelmainitud kogu score mitte hiljutine score.)
+
+I'd love to add unit tests to this if I have time.
